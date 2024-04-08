@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">loginregnardos</string>
+    <string name="title_activity_registration_activitynared">RegistrationActivitynared</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_workgiven">workgiven</string>
+    <string name="title_activity_calculator">calculator</string>
+    <string name="title_activity_calculator1">calculator1</string>
+    <string name="title_activity_calc">calc</string>
+    <string name="title_activity_slmplelist">Slmplelist</string>
+    <string name="title_activity_column">ColumnActivity</string>
+    <string name="title_activity_card">CardActivity</string>
+</resources>
